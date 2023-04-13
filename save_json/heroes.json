@@ -1,0 +1,41 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "5646c7ad-ed7d-4922-85ad-b1bc7888d6cd",
+      "name": "Fire",
+      "description": "Burn like fire",
+      "element": "fire"
+    },
+    {
+      "id": "549e3353-e3cf-4feb-9f38-644dc4d13d88",
+      "name": "Ground Hero",
+      "description": "Deep Deep Deep",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
